@@ -3,7 +3,7 @@
   "private": "true",
   "version": "1.0.0",
   "scripts": {
-    "start": "./node_modules/.bin/ts-node main.ts"
+    "start": "./node_modules/.bin/ts-node main"
   },
   "dependencies": {
     "ts-node": "^10.9.1",
